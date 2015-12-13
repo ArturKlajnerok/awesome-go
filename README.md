@@ -1066,11 +1066,12 @@ Software written in Go.
 * [hsync](http://ambrevar.bitbucket.org/hsync/) - A filesystem hierarchy synchronizer
 * [hugo](http://gohugo.io/) - A Fast and Modern Static Website Engine
 * [Juju](https://jujucharms.com/) - Cloud-agnostic service deployment and orchestration - supports EC2, Azure, Openstack, MAAS and more.
+* [kubernetes](https://github.com/kubernetes/kubernetes) - Container Cluster Manager from Google
 * [limetext](http://limetext.org/) Lime Text is a powerful and elegant text editor primarily developed in Go that aims to be a Free and open-source software successor to Sublime Text.
 * [LiteIDE](https://github.com/visualfc/liteide) LiteIDE is a simple, open source, cross-platform Go IDE.
+* [mattermost](https://github.com/mattermost/platform) - Open source Slack-alternative in Golang and React
 * [naclpipe](https://github.com/unix4fun/naclpipe) - A simple NaCL EC25519 based crypto pipe tool written in Go.
 * [nes](https://github.com/fogleman/nes) - A Nintendo Entertainment System (NES) emulator written in Go.
-* [mattermost](https://github.com/mattermost/platform) - Open source Slack-alternative in Golang and React
 * [orange-cat](https://github.com/noraesae/orange-cat) - A Markdown previewer written in Go.
 * [peg](https://github.com/pointlander/peg) - Peg, Parsing Expression Grammar, is an implementation of a Packrat parser generator.
 * [Postman](https://github.com/zachlatta/postman) - Command-line utility for batch-sending email.
